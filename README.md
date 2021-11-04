@@ -18,7 +18,7 @@ I was quickly disappointed to see that the client actually became worse.
 
 Modules are now even more broken, new GUI styles look very bad, and it looks like 3 months went into making good ESP.
 
-Konas still isn't worth $15, and you can download [RusherHack](https://github.com/PlutoSolutions/John/blob/main/README.md)(or if you want to support rusherhack developement visit https://rusherhack.org ) for free which is still superior compared to this shit client.
+Konas still isn't worth $15, and you can download [RusherHack](https://github.com/PlutoSolutions/John/blob/main/README.md) (or if you want to support rusherhack developement visit https://rusherhack.org ) for free which is still superior compared to this shit client.
 
 # [ how-to ]
 
