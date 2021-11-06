@@ -38,5 +38,5 @@ Konas developers somehow made everything worse in the rewrite, not only the clie
 
 + Konas developers - STILL being retarded and pasting Raion (selling public code is wrong no matter what)
 + [mrnv/ayywareseller](https://github.com/mr-nv) - wasting time to improve Konas loader
-+ [YourSleep/fuckyouthinkimboogieman](https://github.com/fuckyouthinkimboogieman) - helping with resources and making the logo
++ [YourSleep/3jq](https://github.com/3jq) - helping with resources and making the logo
 + [Vaimok](https://github.com/Vaimok) - providing an account
