@@ -10,6 +10,8 @@ mirrors:
 
 [yougame.biz](https://yougame.biz/threads/231176/) / [crystalpvp.ru](https://crystalpvp.ru/konasrewrite/)
 
+[plutosolutions telegram](https://t.me/plutosolutions)
+
 #
 # [ info ]
 When I saw Konas 1.0 I thought that it might actually be good and as a result of 3 months of silence the client might've actually become good.
